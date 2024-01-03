@@ -1,0 +1,8 @@
+.facility{
+    height: auto;
+    width: 100%;
+    background: linear-gradient(#0000, #0005), url('../../../assets/bg-l.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
