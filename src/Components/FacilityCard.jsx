@@ -1,10 +1,12 @@
 
-const FacilityCard = () => {
+const FacilityCard = ({item}) => {
+    const {image, facility} = item
+    
     return (
-        <div className='shadow shadow-white max-w-[320px] bg-[#fff4] p-3 text-center space-y-4'>
-            <img className="w-full" src="https://content.jdmagicbox.com/comp/def_content/fitness-equipment-dealers/shutterstock-292308122-fitness-equipment-dealers-6-wd02h.jpg?clr=" alt="" />
+        <div className='shadow-inner hover:shadow-[#fffc] shadow-white max-w-[320px] bg-[#fff5] p-3 text-center hover:scale-105 duration-200 hover:shadow-md rounded'>
+            <img className="w-full" src={image} alt="" />
 
-            <p className="text-xl font-bold">State-of-the-Art Gym Equipment</p>
+            <p className="text-xl font-bold mt-8">{facility}</p>
         </div>
     );
 };

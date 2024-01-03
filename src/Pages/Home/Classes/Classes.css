@@ -1,0 +1,8 @@
+.class{
+    height: auto;
+    width: 100%;
+    background: linear-gradient(#0005, #0000), url('../../../assets/bg-r.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}

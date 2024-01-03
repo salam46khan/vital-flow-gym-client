@@ -1,0 +1,43 @@
+[
+    {
+      "_id": "1",
+      "image": "https://i.ibb.co/h8wtyRh/State-of-the-Art-Gym-Equipment.jpg",
+      "facility": "State-of-the-Art Gym Equipment"
+    },
+    {
+      "_id": "2",
+      "image": "https://i.ibb.co/t2yn2yd/Dedicated-Cardio-Zone.jpg",
+      "facility": "Dedicated Cardio Zone"
+    },
+    {
+      "_id": "3",
+      "image": "https://i.ibb.co/L9qB2LG/Strength-Training-Area.jpg",
+      "facility": "Strength Training Area"
+    },
+    {
+      "_id": "4",
+      "image": "https://i.ibb.co/f4b5C28/Functional-Training-Zone.jpg",
+      "facility": "Functional Training Zone"
+    },
+    {
+      "_id": "5",
+      "image": "https://i.ibb.co/k61QmdH/Group-Exercise-Studios.jpg",
+      "facility": "Group Exercise Studios"
+    },
+    {
+      "_id": "6",
+      "image": "https://i.ibb.co/VYJzdsy/Indoor-Cycling-Studio.jpg",
+      "facility": "Indoor Cycling Studio"
+    },
+    {
+      "_id": "7",
+      "image": "https://i.ibb.co/9ssWPdK/Outdoor-Workout-Area.jpg",
+      "facility": "Outdoor Workout Area"
+    },
+    {
+      "_id": "8",
+      "image": "https://i.ibb.co/MhQPPfL/Wi-Fi-and-Charging-Stations.jpg",
+      "facility": "WiFi and Charging Stations"
+    }
+  ]
+  

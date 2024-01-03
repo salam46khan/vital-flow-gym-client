@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "classes": "Sunrise Fitness Boost",
+        "image": "https://i.ibb.co/CvCFm2P/morning.jpg",
+        "time": "7:00 AM - 9:00 AM",
+        "instructor_name": "Rasidul Islam",
+        "instructor_img": "https://i.ibb.co/1sCpDFV/user-avatar-2.jpg",
+        "description": "Start your day with energy and vitality! The Sunrise Fitness Boost class is a dynamic and invigorating workout designed to kickstart your metabolism and set a positive tone for the day.",
+        "Benefits": ["Boosts metabolism", "Enhances overall energy levels", "Ideal for all fitness levels"]
+    },
+    {
+        "id": 2,
+        "classes": "Sunset Strength Fusion",
+        "image": "https://i.ibb.co/L9F2SBS/evening.jpg",
+        "time": "5:30 PM - 7:30 PM",
+        "instructor_name": "Rasidul Islam",
+        "instructor_img": "https://i.ibb.co/1sCpDFV/user-avatar-2.jpg",
+        "description": "Unwind from your day with our Sunset Strength Fusion class. Led by the skilled instructor, this class combines strength training, functional movements, and mindful stretching.",
+        "Benefits": ["Builds strength and endurance", "Promotes relaxation and stress relief", "Suitable for various fitness goals"]
+    },
+    {
+        "id": 3,
+        "classes": "Moonlight Yoga Flow",
+        "image": "https://i.ibb.co/4Ph4tpD/night.jpg",
+        "time": "9:00 PM - 11:00 PM",
+        "instructor_name": "Rasidul Islam",
+        "instructor_img": "https://i.ibb.co/1sCpDFV/user-avatar-2.jpg",
+        "description": "Wrap up your day with tranquility and mindfulness in our Moonlight Yoga Flow class. Guided by the calming presence of instructor, this class focuses on gentle yoga poses, breathwork, and meditation.",
+        "Benefits": ["Boosts metabolism", "Enhances overall energy levels", "Ideal for all fitness levels"]
+    }
+]
